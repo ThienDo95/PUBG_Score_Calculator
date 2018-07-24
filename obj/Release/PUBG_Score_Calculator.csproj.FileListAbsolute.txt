@@ -1,0 +1,9 @@
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\bin\Release\PUBG_Score_Calculator.exe.config
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\bin\Release\PUBG_Score_Calculator.exe
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\bin\Release\PUBG_Score_Calculator.pdb
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\obj\Release\PUBG_Score_Calculator.Form1.resources
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\obj\Release\PUBG_Score_Calculator.Properties.Resources.resources
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\obj\Release\PUBG_Score_Calculator.csproj.GenerateResource.Cache
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\obj\Release\PUBG_Score_Calculator.exe
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\obj\Release\PUBG_Score_Calculator.pdb
+T:\Visual Studio 2013\Projects\PUBG_Score_Calculator\PUBG_Score_Calculator\obj\Release\PUBG_Score_Calculator.csprojResolveAssemblyReference.cache
